@@ -138,9 +138,6 @@ public class Card implements Comparable<Card> {
     
     /**
      *  Holds images of playing cards, along with their rank and suit.
-     *
-     *  @author Nicholas R. Howe
-     *  @version February 20, 2006
      */
     private static class ProtoCard {
         /** Rank of card */
